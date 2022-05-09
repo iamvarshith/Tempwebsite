@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  hackerrank.fun:
+  www_hackerrank_fun:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
